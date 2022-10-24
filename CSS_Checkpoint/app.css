@@ -1,0 +1,114 @@
+* {
+    margin: 0 auto;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+#bub {
+    color: #00b39b;
+}
+
+#hvr:hover {
+    color: #00b39b;
+}
+
+section {
+    margin: 0 100%;
+}
+
+section {
+    margin: 5em auto;
+}
+
+.hdr {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 2.125rem;
+    line-height: 1.1;
+}
+
+.hdr2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+}
+
+.hvr {
+    transition: all 200ms ease-in-out;
+}
+
+.hvr:hover {
+    opacity: 0.75;
+}
+
+.br {
+    border-radius: 5%;
+}
+
+.clrblr {
+    background-color: #D9F7F6;
+}
+
+.sec-p {
+    margin-top: 1.25em;
+    color: #747488;
+}
+
+.introduction-logo img {
+    height: 50%x;
+    max-width: 50%;
+    margin-top: 5%;
+
+}
+
+.stats__item {
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 1px 4px 0 rgb(0 0 0 / 5%);
+    height: 250px;
+    text-align: center;
+    padding: 15px;
+    font-size: .8125em;
+}
+
+.stats__item h3 {
+    font-size: 1.8461538462em;
+    color: #00b39b;
+    margin: 0.5em 0;
+}
+
+.office-hvr {
+    transition: all 300ms ease-in-out;
+}
+
+.office-hvr:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+p>a {
+    text-decoration: none;
+}
+
+
+
+/* .logo {
+position: relative;
+width: 430px;
+height: 300px;
+top: 100%;
+background: url("https://www.docplanner.com/img/logo.png") no-repeat;
+}
+*/
+/* .stats__header {
+    position: absolute;
+    right: 67%;
+    top: 80%;
+    background: url("https://www.docplanner.com/img/logo.png") no-repeat;
+    width: 456px;
+    height: 435px;
+    pointer-events: none;
+} */
+
+/* .green-line {
+    width: 100%;
+    height: 800px;
+} */

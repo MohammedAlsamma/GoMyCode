@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Bootcamp Udemy Course/13_Museum_Of_Candy/Starter"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CSS_Checkpoint"
+	}
+}
